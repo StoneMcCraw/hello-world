@@ -1,9 +1,8 @@
 # hello-world
 
-Hello Ugly
+8/26/2019
+  Starting HTML
 
-Im learning the ropes.
-Watch as I become a coding god.
-=======
-I enjoy the butter in my ears
 
+12/05/2019
+  Website Due 
